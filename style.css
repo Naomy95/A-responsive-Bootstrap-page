@@ -1,0 +1,86 @@
+
+.text-font{
+    font-family: 'Poppins', sans-serif;
+}
+
+.honda-menu img{
+    width: 552px;
+    height: 447px;
+}
+
+.honda-login{
+    color: white;
+    background-color: #E76F51;
+    margin-left: 100px;
+    border-radius: 5px;
+    border: none;
+
+}
+
+
+.honda-bg-info{
+    background-color: #fceae8;
+}
+.honda-btn{
+    color: white;
+    background-color:#ff8c69;
+    border: none;
+    border-radius: 5px;
+    padding: 9px 25px;
+    font-family: 'Poppins', sans-serif;
+    font-style: bold;
+
+}
+.honda-image-gray img{
+    width: 288px;
+    height: 243px;
+    filter: grayscale(1);
+}
+.honda-image-gray img:hover{
+    filter: grayscale(0);
+  filter: none;
+}
+.honda-image img{
+    width: 288px;
+    height: 243px;
+}
+
+.title-text{
+    margin-top: 120px;
+}
+.text-color{
+    color: #f8b878;
+
+}
+
+.card-text{
+    color:#6C6C6C;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+
+.card-img-top{
+    width: 149px;
+    height: 149px;
+    justify-content: center;
+}
+.fa-star, .fa-star-half-alt{
+    width: 22px;
+    height: 22px;
+    color:#E77C40;
+    background-color: white;
+}
+.client-card{
+    width: 323px;
+    height: 478px;
+}
+ 
+ .faq-image{
+    width: 431px;
+    height: 423px;
+    
+} 
+.footer{
+    background-color: rgb(223, 194, 194);
+}
